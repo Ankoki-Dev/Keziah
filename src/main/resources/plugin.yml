@@ -1,0 +1,7 @@
+name: Keziah
+version: 1.0
+api-version: 1.13
+main: com.ankoki.keziah.Keziah
+commands:
+  keziah:
+    description: Manages items with spells.
